@@ -24,7 +24,7 @@ function documentOnLoad(){
 
 window.onscroll = function(){
   animateElLoads()
-  navAnimation()
+  //navAnimation()
 };
 
 function divImgEqualToParent(){
