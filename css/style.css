@@ -95,7 +95,7 @@ body{
   text-align: center;
   vertical-align: middle;
   margin: 0px auto;
-  margin-top: 15px;
+  margin-top: 7px;
   transition: top .1s ease;
   transition: color 1s ease;
   /* background: url('../images/text_backsplash.png') no-repeat;
@@ -478,7 +478,7 @@ anchor:hover::before {
 anchor > div {
   display: block;
   position: relative;
-  top: 102px;
+  top: 93px;
   right: 230px;
   padding-top: 13px;
   height: 37px;
