@@ -20,6 +20,7 @@ function documentOnLoad(){
   setupAnchors()
   calcWidthOfShowcase()
   showcaseSizing()
+  animateElLoads()
 }
 
 window.onscroll = function(){
